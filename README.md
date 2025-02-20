@@ -1,6 +1,6 @@
 ![logo](https://github.com/Simanto-Ratul/Simanto-Ratul/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Simanto Saha</h1>
-<h3 align="center">I'm studing Computer Science and Engineering student at American International University Bangladesh and on a mission to turn ideas into reality through the power of code. I thrive on solving complex problems, building cool stuff, and constantly pushing the boundaries of what’s possible with technology.</h3>
+<h3 align="center">I'm studing Computer Science and Engineering at American International University Bangladesh and on a mission to turn ideas into reality through the power of code. I thrive on solving complex problems, building cool stuff, and constantly pushing the boundaries of what’s possible with technology.</h3>
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
  - 🌱 I’m currently learning **C, C++, Java, HTML and many other coding languages.**
