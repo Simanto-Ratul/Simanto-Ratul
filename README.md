@@ -1,10 +1,26 @@
-![logo](https://github.com/Simanto-Ratul/Simanto-Ratul/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi there! 👋 I'm Simanto Saha.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Simanto-Ratul&label=Profile%20views&color=0e75b6&style=flat" alt="Simanto-Ratul" /> </p>
-<h3 align="center">I'm studing Computer Science and Engineering at American International University - Bangladesh and on a mission to turn ideas into reality through the power of code. I thrive on solving complex problems, building cool stuff, and constantly pushing the boundaries of what’s possible with technology.</h3>
-<img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!++I'm+Simanto+Saha;CSE+Student+%7C+Problem+Solver"
+    alt="Typing SVG"
+  />
+</div>
 
- - 🌱 I’m currently learning **C, C++, Java, HTML and many other coding languages.**
+<br/>
+
+## 👨‍💻 About Me
+
+<img 
+  align="right"
+  width="420"
+  src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"
+  alt="Coding Animation"
+/>
+
+I'm studing **Computer Science and Engineering** at **American International University - Bangladesh** and on a mission to turn ideas into reality through the power of code. I thrive on solving complex problems, building cool stuff, and constantly pushing the boundaries of what’s possible with technology.
+
+---
+
+
 
 - 📫 How to reach me **sahasimanto.828@gmail.com**
 
