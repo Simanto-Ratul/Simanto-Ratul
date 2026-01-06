@@ -24,8 +24,6 @@ I'm a **Computer Science and Engineering** student at **American International U
 - 📚 Continuously learning new technologies and best practices
 - 🤝 Open to collaboration on innovative projects
 
-<br/>
-
 ## 📫 Contact & Links
 
 - **Email:** `sahasimanto.828@gmail.com`
