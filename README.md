@@ -16,15 +16,7 @@
 
 ## 👨‍💻 About Me
 
-<img 
-  align="right"
-  width="420"
-  src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"
-  alt="Coding Animation"
-/>
-I'm studing **Computer Science and Engineering** at **American International University - Bangladesh** and on a mission to turn ideas into reality through the power of code. I thrive on solving complex problems, building cool stuff, and constantly pushing the boundaries of what’s possible with technology.
-
----
+I'm a **Computer Science and Engineering** student at **American International University - Bangladesh (AIUB)**, passionate about transforming innovative ideas into practical solutions through software development. I specialize in building efficient systems and applications, with a keen interest in mobile application development and emerging technologies.
 
 ### 🔍 What I'm Up To
 - 🎓 Pursuing B.Sc. in Computer Science & Engineering
