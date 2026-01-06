@@ -26,6 +26,12 @@ I'm studing **Computer Science and Engineering** at **American International Uni
 
 ---
 
+### 🔍 What I'm Up To
+- 🎓 Pursuing B.Sc. in Computer Science & Engineering
+- 💻 Building projects to solve real-world problems
+- 📚 Continuously learning new technologies and best practices
+- 🤝 Open to collaboration on innovative projects
+
 <br/>
 
 ## 📫 Contact & Links
